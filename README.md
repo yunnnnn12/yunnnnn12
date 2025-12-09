@@ -31,8 +31,8 @@
 <br>
 
 <!-- Interested 섹션 -->
-<h1 align="center">💻💡 I'm interested in </h1>
+<h1 align="center">💻💡 I'm interested in</h1>
 
-<p align="center"><h3>🛠️ API development</h3></p>
-<p align="center"><h3>🛠️ Cloud computing</h3></p>
-<p align="center"><h3>🛠️ Server infrastructure setup and deployment</h3></p>
+<h3 align="center">🛠️ API development</h3>
+<h3 align="center">🛠️ Cloud computing</h3>
+<h3 align="center">🛠️ Server infrastructure setup and deployment</h3>
