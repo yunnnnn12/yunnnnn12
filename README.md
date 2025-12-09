@@ -1,4 +1,6 @@
-![README Banner](https://capsule-render.vercel.app/api?type=cylinder&color=BFDAF7&height=200&text=Hello!&fontSize=90&fontColor=000000)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=BFDAF7&height=200&text=Hello!&fontSize=90&fontColor=000000" />
+</p>
 
 <p align="center">
   <b>⚙️ Tech Stacks</b><br><br>
@@ -18,6 +20,3 @@
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
-
-
-
