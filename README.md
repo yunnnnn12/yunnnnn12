@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=BFDAF7&height=200&text=Welcome!&fontSize=90&fontColor=000000" />
 </p>
 
-<br><br>
+<br>
 
 <!-- Tech Stacks 중앙정렬, 글씨 크기 H1 -->
 <h1 align="center">⚙️ Tech Stacks</h1>
