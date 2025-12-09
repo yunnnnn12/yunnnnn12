@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=BFDAF7&height=200&text=Welcome!&fontSize=90&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=BFDAF7&height=200&text=Welcome to my GitHub!&fontSize=80&fontColor=000000" />
 </p>
 
 <br>
@@ -33,6 +33,6 @@
 <!-- Interested 섹션 -->
 <h1 align="center">💻💡 I'm interested in</h1>
 
-<h3 align="center">🛠️ API development</h3>
-<h3 align="center">🛠️ Cloud computing</h3>
-<h3 align="center">🛠️ Server infrastructure setup and deployment</h3>
+<h3 align="center">- API development</h3>
+<h3 align="center">- Cloud computing</h3>
+<h3 align="center">- Server infrastructure setup and deployment</h3>
