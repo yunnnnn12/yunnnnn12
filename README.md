@@ -3,21 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=BFDAF7&height=200&text=Hello!&fontSize=90&fontColor=000000" />
 </p>
 
-<!-- 배너와 Tech Stacks 사이 간격 -->
-<br><br> <!-- 간격 조절 -->
+<br><br>
 
 <!-- Tech Stacks 중앙정렬, 글씨 크기 H2 -->
-<p align="center">
-  ## ⚙️ Tech Stacks
-</p>
+<h2 align="center">⚙️ Tech Stacks</h2>
 
-<!-- 기술 스택 배지 중앙정렬 -->
 <p align="center">
   <!-- 1번째 줄 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  
+
   <!-- 2번째 줄 -->
   <br>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
