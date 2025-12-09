@@ -4,12 +4,15 @@
 </p>
 
 <!-- 배너와 Tech Stacks 사이 간격 -->
-<br><br> <!-- <br> 여러 개로 간격 조절 -->
+<br><br> <!-- 간격 조절 -->
 
-<!-- Tech Stacks 중앙정렬, 글씨 크기 조절 -->
+<!-- Tech Stacks 중앙정렬, 글씨 크기 H2 -->
 <p align="center">
-  <b style="font-size:70px;">⚙️ Tech Stacks</b><br><br>
-  
+  ## ⚙️ Tech Stacks
+</p>
+
+<!-- 기술 스택 배지 중앙정렬 -->
+<p align="center">
   <!-- 1번째 줄 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
