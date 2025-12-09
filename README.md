@@ -32,7 +32,7 @@
 <br>
 
 <!-- Interested 섹션 -->
-<h1 align="center">💻💡 I'm interested in 💻💡</h1>
+<h1 align="center">💻 I'm interested in 💻</h1>
 
 <h3 align="center">- API development</h3>
 <h3 align="center">- Cloud computing</h3>
