@@ -33,8 +33,6 @@
 <!-- Interested 섹션 -->
 <h1 align="center">💻💡 I'm interested in </h1>
 
-<p align="center">
-  🔹 API development &nbsp;&nbsp;  
-  🔹 Cloud computing  &nbsp;&nbsp;  
-  🔹 Server infrastructure setup and deployment &nbsp;&nbsp;
-</p>
+<p align="center"><h3>🛠️ API development</h3></p>
+<p align="center"><h3>🛠️ Cloud computing</h3></p>
+<p align="center"><h3>🛠️ Server infrastructure setup and deployment</h3></p>
