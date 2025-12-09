@@ -6,7 +6,7 @@
 <br>
 
 <!-- Tech Stacks 중앙정렬, 글씨 크기 H1 -->
-<h1 align="center">⚙️ Tech Stacks</h1>
+<h1 align="center">⚙️ Tech Stacks ⚙️</h1>
 
 <!-- 기술 스택 배지 중앙정렬 -->
 <p align="center">
@@ -32,7 +32,7 @@
 <br>
 
 <!-- Interested 섹션 -->
-<h1 align="center">💻💡 I'm interested in</h1>
+<h1 align="center">💻💡 I'm interested in 💻💡</h1>
 
 <h3 align="center">- API development</h3>
 <h3 align="center">- Cloud computing</h3>
