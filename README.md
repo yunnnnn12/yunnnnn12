@@ -5,8 +5,8 @@
 
 <br><br>
 
-<!-- Tech Stacks 중앙정렬, 글씨 크기 H2 -->
-<h3 align="center">⚙️ Tech Stacks</h3>
+<!-- Tech Stacks 중앙정렬, 글씨 크기 H1 -->
+<h1 align="center">⚙️ Tech Stacks</h1>
 
 <!-- 기술 스택 배지 중앙정렬 -->
 <p align="center">
